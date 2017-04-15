@@ -1,2 +1,2 @@
 # Python_Basics
-All Basic Concepts from Prin Statement to Dictinories,Function,Lists and many more
+All Basic Concepts from Print Statement to Dictinories,Function,Lists and many more
